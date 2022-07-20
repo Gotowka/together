@@ -82,6 +82,8 @@ declare class DiscordTogether<T extends {
         ocho: string;
         landio: string;
         bobble: string;
+        meme: string;
+        away: string;
     } & T)): Promise<{
         code: string;
     }>;
