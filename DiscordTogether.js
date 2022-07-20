@@ -19,7 +19,9 @@ const defaultApplications = {
   sketchheads: '902271654783242291', // Note : First package to offer sketchheads any other package offering it will be clearly inspired by it
   ocho: '832025144389533716',
   landio: '903769130790969345',
-  bobble: '947957217959759964'
+  bobble: '947957217959759964',
+  meme: '950505761862189096',
+  away: '976052223358406656'
   //sketchyartist: '879864070101172255' // Note : First package to offer sketchyartist, any other package offering it will be clearly inspired by it
 };
 
